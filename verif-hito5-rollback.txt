@@ -1,0 +1,2 @@
+1788773069
+Cambio trivial para verificar el ROLLBACK (HARNESS_DELEGACION_ROLES=off) de la tarea 24.
