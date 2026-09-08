@@ -1,0 +1,7 @@
+Archivo NUEVO creado por la verificación manual end-to-end del hito 2.1
+(escritura delegada del Developer vía worktree aislado).
+
+Este archivo existe para confirmar que el patch capturado por
+`capturarDiff` (git add --intent-to-add --all + git diff --binary) incluye
+un archivo NUEVO completo, no sólo ediciones sobre archivos existentes
+(design.md §11 punto 5).
