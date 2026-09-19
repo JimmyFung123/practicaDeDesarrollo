@@ -4,7 +4,7 @@
     {
         public Guid id { get; set; }
         public string emisor { get; set; }
-        public DateTime Fecha { get; set; }
+        public DateTime fecha { get; set; }
         public bool activacion { get; set; }
 
         public Alarma(string emisor)
